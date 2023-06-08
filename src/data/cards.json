@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "title": "🔧 Conheça o Ramo IEEE na UFRB.",
+      "url": "https://www.instagram.com/ramoieeeufrb/"
+    },
+    {
+      "title": "📷 Nosso Instagram!",
+      "text": "@ieeecsufrb",
+      "url": "https://instagram.com/ieeecsufrb"
+    },
+    {
+      "title": "🖥️ Nossos repositórios.",
+      "text": "Todos estão hospedados no GitHub.",
+      "url": "https://github.com/IeeeCsUfrb/"
+    },
+    {
+      "title": "🐈‍⬛ Este site é de código aberto.",
+      "text": "Confira o repositório no nosso GitHub.",
+      "url": "https://github.com/IeeeCsUfrb/links"
+    }
+  ]
+}
